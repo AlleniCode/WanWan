@@ -1,0 +1,6 @@
+framework module Pods_WanWanCoreTests {
+  umbrella header "Pods-WanWanCoreTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
